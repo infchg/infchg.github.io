@@ -17,6 +17,7 @@
 	   // --ipNAT: orange;
 	    --ipNAT: #f70;
 	    --ipRAC: #f00;
+	    --ipGRPv: #555;  
 
 }	
     #map {
@@ -71,14 +72,17 @@ opacity: 0.7;
     January 2022.
 	<p>Fuentes / Sources</p>
 
-		<li> - CruzRoja RedCross 
-	</li> <li>  - .ES Artículo 7 de la ley 12/2009, motivos de persecución por:
+
+		<li> - UNHCR ACNUR CruzRoja RedCross ...
+
+          
+ 	</li> <li>  - .ES Artículo 7 de la ley 12/2009, motivos de persecución por:
 <i style="background:var(--ipRAC);">. </i> 	a) raza, 
 <i style="background:var(--ipREL);">. </i>	b) religión, 
 <i style="background:var(--ipNAT);">. </i>	c) nacionalidad,
 <i style="background:var(--ipPOL);">. </i>    d) políticas,
 <i style="background:var(--ipGRPa);">. </i>     e) grupo social, innato o antecedentes, percibido
-  
+  	</li> <li>    - Independiente de investigaciones o asilo, tambien se señalan <i style="background:var(--ipGRPv);">. </i> casos de violencia como pandillas y otros grupos armados 
 	  
 </li> <li> 	  - .US ley de inmigración de los Estados Unidos, causas de asilo político:
 	<i style="background:var(--ipPOL);">. </i> Opiniones políticas,
@@ -93,10 +97,11 @@ opacity: 0.7;
     </li> 	<p>  </p>
     
     
-       <script src="../data/1950.geojson.js"></script>  <!-- loading es7 by symmetry pattern  ==> redundant -->
+       <script src="../data/1950.geojson.js"></script>  <!-- loading es7 by symmetry pattern  ==> geo redundant -->
        <script src="../data/ISO3countries.geojson"></script>  
        
-           <script src="../data/urls-iso3.js"></script>  
+      <script src="../data/urls-iso3.js"></script>  
+      <script src="../data/protect2+urls-iso.js"></script>   <!-- load es7 by symmetry pattern  ==> data redundant -->
 
     <script >
 	var myStyle = {
@@ -121,7 +126,7 @@ opacity: 0.7;
       function enlaza(  fields1Link2Title ) { 
 		  let link1 = fields1Link2Title.substring(0,33)
 		  let title2 = fields1Link2Title.substring(33)
-		  return  title2 + ' <a href="https://drive.google.com/file/d/' +link1+ '?j"  target="_blank"> -> </a> ' 
+		  return  title2 + ' <a href="https://drive.google.com/file/d/' +link1+ '?j"  target="_blank">  &#x25B8; </a> ' 
 		  
 		  // FOLD:  https://drive.google.com/drive/folders/
 		  // FILE : https://drive.google.com/file/d/1aWR1znQytn0kCMrFU-NngwFzL4ctO2F2
@@ -131,17 +136,20 @@ opacity: 0.7;
 		  i =  mp2[k] ;
 		  geo = mycountries.features[ i ]  ;
 
-		return "<b>"  + geo.properties.name + "</b>  "  + k + " </br>"
-		+  ( opss[k] && opss[k].href ? '<a href="'+ opss[k].href +'" target="_blank"> => Carpeta </a> ' : "" ) + "</br>"
+		return "<b>"  + geo.properties.name + "</b>  "  + k + " "
+		+  ( opss[k] && opss[k].href ? '<a href="'+ opss[k].href +'" target="_blank">  &#x25B8; </a> ' : "" ) + "</br>"
 		+  ( opss[k] && opss[k].img  ? "<img width=200 src='"+ opss[k].img +"'/>" : "" ) + "</br>"
-		+  ( opss[k] && opss[k].rac  ? '<i style="background:var(--ipRAC);">.</i>' +   enlaza( opss[k].rac )  + "</br>": '' )
-		+  ( opss[k] && opss[k].nat  ? '<i style="background:var(--ipNAT);">.</i>' +  enlaza( opss[k].nat ) + "</br>" : '' ) 
-		+  ( opss[k] && opss[k].grph  ? '<i style="background:var(--ipGRPh);">.</i>' +  enlaza( opss[k].grph )+ "</br>"   : '' ) 
-		+  ( opss[k] && opss[k].grpa  ? '<i style="background:var(--ipGRPa);">.</i>' +  enlaza( opss[k].grpa ) + "</br>" : '' ) 
-		+  ( opss[k] && opss[k].grpm  ? '<i style="background:var(--ipGRPm);">.</i>' +  enlaza( opss[k].grpm )+ "</br>" : '' ) 
-		+  ( opss[k] && opss[k].pol  ? '<i style="background:var(--ipPOL);">.</i>' +  enlaza( opss[k].pol )+ "</br>" : '' ) 
-		+  ( opss[k] && opss[k].rel  ? '<i style="background:var(--ipREL);">.</i>' +  enlaza( opss[k].rel )+ "</br>" : '' ) 
-		+  ( opss[k] && opss[k].busq  ? '<i style="background:gray">.</i>' + "+ ...Búsqueda Activa" : '' ) + "</br>"
+		+  ( opss[k] && opss[k].etn  ? '<i style="background:var(--ipRAC);">&#x25B8;.</i>' +   enlaza( opss[k].etn )  + "</br>": '' )
+		+  ( opss[k] && opss[k].nat  ? '<i style="background:var(--ipNAT);">&#x25B8;.</i>' +  enlaza( opss[k].nat ) + "</br>" : '' ) 
+		+  ( opss[k] && opss[k].gri  ? '<i style="background:var(--ipGRPh);">&#x25B8;.</i>' +  enlaza( opss[k].gri )+ "</br>"   : '' ) 
+		+  ( opss[k] && opss[k].gra  ? '<i style="background:var(--ipGRPa);">&#x25B8;.</i>' +  enlaza( opss[k].gra ) + "</br>" : '' ) 
+		+  ( opss[k] && opss[k].grs  ? '<i style="background:var(--ipGRPm);">&#x25B8;.</i>' +  enlaza( opss[k].grs )+ "</br>" : '' ) 
+		+  ( opss[k] && opss[k].pol  ? '<i style="background:var(--ipPOL);">&#x25B8;.</i>' +  enlaza( opss[k].pol )+ "</br>" : '' ) 
+		+  ( opss[k] && opss[k].rel  ? '<i style="background:var(--ipREL);">&#x25B8;.</i>' +  enlaza( opss[k].rel )+ "</br>" : '' ) 
+		
+		+  ( opss[k] && opss[k].grv ? '<hr> +  <i style="background:var(--ipGRPv);">&#x25B8;.</i>' +  enlaza( opss[k].grv )+ " " : '' ) 
+		
+		+  ( opss[k] && opss[k].busq  ? '<hr> + <i style="background:gray">+</i>' + " ... " : '' ) + " "
 
 		}	                
                 
