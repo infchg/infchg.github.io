@@ -2,8 +2,8 @@
 
 Frases en Español y Ukraniano
 
- | Ucraniano  | Español | Inglés 
- ---|---|---|---
+Українська | Ucraniano  | Español | Inglés 
+---|---|---|---
 Добрий день |  dobryj den’  | buen día / hola | good morning /  hello  | 
 Привіт |  pryv’it  | hola |  hi
 Дякую | d’akuju | gracias | thank you
