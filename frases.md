@@ -30,3 +30,8 @@ Frases en Español y Ukraniano
 Вогонь!  |  | Fuego !  | Fire!
 Допоможи! |  | ayuda! | Help! 
 До побачення |do pobachen’:a | Adiós ! | Good bye!
+
+
+- LINK https://github.com/infchg/infchg.github.io/blob/master/frases.md
+- otros en francés
+- otros en slides 
