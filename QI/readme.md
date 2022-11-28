@@ -1,18 +1,22 @@
 _brief_: https://github.com/infchg/j2?  _former_: https://infchg.github.io/QI?
   
-#  🌌 Thinking about fundamental questions
+#  🌌 Interest: Thinking about fundamental questions
 
-- Interest: Physics, Quantum Information, inter-disciplinary collaboration [planned 2022-23](#planned-2022-23)
-- Steps taken: published on [](#Physics-Based-Information-Models), researching [QI-Tools-Applications](#QI-Tools-Applications)
-- Experienced: achieved complex IT goals integrating Teams, Hardware, Instruments, Bus, Linux, Network, DevOps, Python, Cloud 
 
-Generic & Simple frameworks boost human innovation, helping rapid building & repetition:
-   In the 70s, the DoD's Internet Protocol made easy to grow communications exponentially. In the 90’s the CERN's Web open format radically boosted the information exchange. In 201x's IBM's QisKit started seamless access to Quantum Computers for hundreds of thousands researchers. 
+# Steps when Exploring the Nature of Quantum Information
+
+- Steps taken: Theoretical [Physics-Based-Information-Models](#-Physics-Based-Information-Models) published with QKD examples. 
+- Recent research on [QI-Tools-Applications](#-QI-Tools--Applications) with Hilbert space and Bloch sphere
+- Next proposal: inter-disciplinary collaboration [planned 2022-23](#planned-2022-23) nearby NYC
+   - brings:
+   -  experince achieving complex IT goals, by integrating Teams, Hardware, Instruments, Bus, Linux, Network, DevOps, Python, Cloud 
+   - + ability to understand the theory, matrix operators, eigenstates, ... and some notions learnt from experimentalists and qiskit 
+
 
  
 # Planned 2022-23
 
-Part-time Due to completing a tech project full-time currently:
+*Part-time* due to current commitment delivering a technology project full-time:
 
 - 2022 submitting new journal paper on Bloch & QI framework 
 - 2023 Q1Q2 collaborations nearby NY towards cloud quantum computing
@@ -71,15 +75,25 @@ IAEA, Vienna - 2020 - New Hardware & ML analysis of Cherenkov UV light images fr
 ## 📕 Refs 
 ### Delivering by Agile & Modern https://modernagile.org/
 
+Proposing for Physics, as historic agile XP as   boosted our interdisciplinary teams since 2001: from those analyzing data to developers to hardware engineerings accessing states at tiny fractions of a second. 
+- 4 Pillars:  People collaborations enhanced (Git & Jupyter Notebooks); repeat and Continuosly Improve (automated pipelines); allow rapid experiments; Safety came from approaching goals  in consumer/provider pairs (avoiding hw/sw/coders overwhelmed or consumers/analysts/theorist disapointed).
 
 ```mermaid
 graph LR;
     People-->Continuous;
  
    Continuous-->Safe;
-   Safe-->a;
-   a-->People;
+   Safe-->Rapid;
+   Rapid-->People;
+   
+   People-->Safe;
 ```
+
+Fostering Models & Methods:
+Generic & Simple frameworks boost human innovation, helping rapid building & repetition:
+   In the 70s, the DoD's Internet Protocol made easy to grow communications exponentially. In the 90’s the CERN's Web open format radically boosted the information exchange. In 201x's IBM's QisKit started seamless access to Quantum Computers for hundreds of thousands researchers. 
+
+
 
 ---
 title: QI Profile & Plans
