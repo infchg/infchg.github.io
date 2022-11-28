@@ -15,7 +15,7 @@ _brief_: https://github.com/infchg/j2?  _former_: https://infchg.github.io/QI?
 
 *Part-time* due to current commitment delivering a technology project full-time:
 
-- 2022 submitting new journal paper on Bloch & QI framework 
+- 2022 submitting new journal paper on Bloch & QI framework + another measured from real QC circuits 
 - 2023 Q1Q2 collaborations nearby NY towards cloud quantum computing
 
 #  🌱 Physics-Based Information Models 
