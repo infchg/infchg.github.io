@@ -2,8 +2,8 @@ _brief_: https://github.com/infchg/j2?  _former_: https://infchg.github.io/QI?
   
 #  🌌 Thinking about fundamental questions
 
-- Interest: Physics, Quantum Information, inter-disciplinary collaboration [Planned 2022-23]
-- Steps taken: publications [on Physics-Based Models of Information] and researching [on QI Tools & Applications]
+- Interest: Physics, Quantum Information, inter-disciplinary collaboration [#planned-2022-23]
+- Steps taken: published on [Physics-Based-Information-Models] and researches [QI-Tools-Applications]
 - Experienced: achieving full IT goals by integrating teams Hardware GPU Bus Linux Network DevOps Python Cloud ...
 
 Generic & Simple frameworks boost human innovation, helping rapid building & repetition:
@@ -17,14 +17,14 @@ Part-time Due to completing a tech project full-time currently:
 - 2022 submitting new journal paper on Bloch & QI framework 
 - 2023 Q1Q2 collaborations nearby NY towards cloud quantum computing
 
-#  🌱 on Physics-Based Models of Information 
+#  🌱 Physics-Based Information Models 
 
 Proposed Physics-Based Models (alike Toffoli, Benioff, Kirchoff) and Feynman-charts of Information Change.
 
  -   "Simulation model applied to IP protocols and satellite communications", Int'l Conf. Advances in Satellite and Space Communications, 2010, pp.122–127, Martínez, J.C., De Haro, L., González, A. https://IEEExplore.IEEE.org/document/5502488 DOI.org/10.1109/spacomm.2010.34 ISBN:9781424472758 on QKD
- -   "Particle-based methodology for representing mobile ad-hoc networks", Int'l Conf. Integrated internet ad hoc and sensor networks ACM, 2006, DOI.org/10.1145/1142680.1142685 ISBN:1595934278 https://oa.upm.es/1666? 
+ -   "Particle-based methodology for representing mobile ad-hoc networks", Int'l Conf. Integrated internet ad hoc and sensor networks ACM, 2006, https://DOI.org/10.1145/1142680.1142685 ISBN:1595934278 oa.upm.es/1666
 
-#  🌱 on QI Tools & Applications 
+#  🌱 QI Tools & Applications 
 
 Exploring common frameworks to represent light modes coding qubits across diverse experiments
 
@@ -36,10 +36,10 @@ Exploring common frameworks to represent light modes coding qubits across divers
 With gratitude to teams who accepted posters contributions during PhD studies and helped evolve these ideas from early stages:
 
  -   "Mathematical model for specification and inter-operation between experiments and tools", Neutrinos & Dark Matter in Nuclear Physics, 2006, pp.909-914 http://iaea.org/inis/collection/NCLCollectionStore/_Public/39/005/39005128.pdf pp4
- -   [] "Quantum Modeling using Information-Particles", Proc. of TQC2007 Theory of Quantum Computation, Communication, & Cryptography, Jan 24-25 2007 Nara Japan , http://www.brl.ntt.co.jp/tqc/2007/en/program.htm [] "Physics Oriented objects for modeling QIP", QIP 2007, Australia, Jan 2007, http://www.qinfo.org/qip/program.htm
+ -   [] "Quantum Modeling using Information-Particles", Proc. of TQC2007 Theory of Quantum Computation, Communication, & Cryptography, Jan 24-25 2007 Nara Japan ,  brl.ntt.co.jp/tqc/2007/en/program.htm [] "Physics Oriented objects for modeling QIP", QIP 2007, Australia, Jan 2007,  qinfo.org/qip/program.htm
  -   Background: Master of Electrical Engineering (MScEE equivalence certified in California), a progressive career in hardware and software computing with Industry Agile DevOps, from Gravimeter instrumentation to Cloud.
-
-
+-  Open Cloud Tool - Ongoing - Queue monitoring for Quantum Processing queues in a light dashboard
+IAEA, Vienna - 2020 - New Hardware & ML analysis of Cherenkov UV light images from Nuclear plants 
 
 
 
@@ -78,6 +78,8 @@ graph TD;
     People-->Rapid;
      Rapid-->Safe;
    Continuous-->Safe;
+   Safe-->a;
+   a-->People;
 ```
 
 ---
