@@ -7,9 +7,9 @@ _brief_: https://github.com/infchg/j2?  _former_: https://infchg.github.io/QI?
 
 - Steps taken: Theoretical [Physics-Based-Information-Models](#-Physics-Based-Information-Models) published with QKD examples. 
 - Recent research on [QI-Tools-Applications](#-QI-Tools--Applications) with Hilbert space and Bloch sphere
-- Next proposal: inter-disciplinary collaboration [planned 2022-23](#planned-2022-23) nearby NYC, by bringging:
+- Next proposal: inter-disciplinary collaboration [planned 2022-23](#planned-2022-23) nearby NYC, by bringing:
    - Two decades achieving complex IT goals, by integrating Teams, Hardware, Instruments, Bus, Linux, Network, DevOps, Python, Cloud 
-   - & Ability to understand the theory, matrix operators, eigenstates, ... and some notions learnt from experimentalists and qiskit 
+   - & Ability to understand the theory, matrix operators, eigenstates, ... and some notions learnt from experimentalists and QisKit 
 
 # Planned 2022-23
 
@@ -20,7 +20,7 @@ _brief_: https://github.com/infchg/j2?  _former_: https://infchg.github.io/QI?
 
 #  🌱 Physics-Based Information Models 
 
-Proposed Physics-Based Models (alike Toffoli, Benioff, Kirchoff) and Feynman-charts of Information Change.
+Proposed Physics-Based Models (alike Toffoli, Benioff, Kirchhoff) and Feynman-charts of Information Change.
 
  -   "Simulation model applied to IP protocols and satellite communications", Int'l Conf. Advances in Satellite and Space Communications, 2010, pp.122–127, Martínez, J.C., De Haro, L., González, A. https://IEEExplore.IEEE.org/document/5502488 DOI.org/10.1109/spacomm.2010.34 ISBN:9781424472758 on QKD
  -   "Particle-based methodology for representing mobile ad-hoc networks", Int'l Conf. Integrated internet ad hoc and sensor networks ACM, 2006, https://DOI.org/10.1145/1142680.1142685 ISBN:1595934278 oa.upm.es/1666
@@ -29,7 +29,7 @@ Proposed Physics-Based Models (alike Toffoli, Benioff, Kirchoff) and Feynman-cha
 
 Exploring common frameworks to represent light modes coding qubits across diverse experiments
 
-  -  on Bloch-R3 tools accross diverse physical modes, orbital, temporal, parity, spin, … much improved from public preprint  researchgate.net/publication/356697550_Comparative_Analysis_of_Spin_Paths_Temporal_and_Spatial_Modes
+  -  on Bloch-R3 tools across diverse physical modes, orbital, temporal, parity, spin, … much improved from public preprint  researchgate.net/publication/356697550_Comparative_Analysis_of_Spin_Paths_Temporal_and_Spatial_Modes
   -  on Verifying quantum information designs with Conservation Laws and Change diagrams, BeyondC 2019 Vienna, pp.22 #34, https://beyondc.at/fileadmin/user_upload/p_beyondc/Conference_2019/Book_of_Abstracts.pdf 
     
 #  ♥ Thanks to past teams and collaborators.
@@ -42,7 +42,7 @@ With gratitude to teams who accepted posters contributions during PhD studies an
  And MSEE/CS Background: Master of Electrical Engineering (MScEE equivalence certified in California) + a progressive career in hardware and software computing with Industry Agile DevOps,
  
  - @ current: planning Open Cloud Tool - Ongoing - Queue monitoring for Quantum Processing queues in a light dashboard
- - @ IAEA Vienna 2020: Architecture to Prototyping new Hardware and ML to analyze Cherenkov UV light images from Nuclear plants 
+ - @ IAEA Vienna 2020: Architecture to Prototyping new Hardware and ML to analyze Cherenkov UV light images from nuclear plants worldwide 
  - @ WOCE Support 95: Integrated Gravimeter instrumentation (formerly at NASA [satellite](https://icebridge.gsfc.nasa.gov/?page_id=180)) from hardware to internet data pipelines.
 
 
@@ -72,11 +72,16 @@ Information-Change J-C - https://github.com/infchg/j2? - tel: (917) 815 xxxx - N
  
 
 
-## 📕 Refs 
+## 📕 Reference Principles & Productivity Ideas
 ### Delivering by Agile & Modern https://modernagile.org/
 
-Proposing for Physics, as historic agile XP as   boosted our interdisciplinary teams since 2001: from those analyzing data to developers to hardware engineerings accessing states at tiny fractions of a second. 
-- 4 Pillars:  People collaborations enhanced (Git & Jupyter Notebooks); repeat and Continuosly Improve (automated pipelines); allow rapid experiments; Safety came from approaching goals  in consumer/provider pairs (avoiding hw/sw/coders overwhelmed or consumers/analysts/theorist disapointed).
+Fostering Models & Methods in collaborations:
+
+Historic agile XP boosted interdisciplinary teams since 2001, from teams analyzing data to developers to hardware engineers accessing states at tiny fractions of a second. ModernAgile has four pillars: 
+- People collaborations enhanced (Git & Jupyter Notebooks);
+- Repeat and Continuously Improve (automated pipelines); 
+- allowing rapid experimentation;
+-  Safety came from approaching goals  in consumer/provider pairs, effectively avoiding hw/sw/coders overwhelmed or consumers/analysts/theorist disappointed.
 
 ```mermaid
 graph LR;
@@ -88,10 +93,14 @@ graph LR;
    
 ```
 
-Fostering Models & Methods:
-Generic & Simple frameworks boost human innovation, helping rapid building & repetition:
-   In the 70s, the DoD's Internet Protocol made easy to grow communications exponentially. In the 90’s the CERN's Web open format radically boosted the information exchange. In 201x's IBM's QisKit started seamless access to Quantum Computers for hundreds of thousands researchers. 
+Why ?
 
+Generic & Simple frameworks boost human innovation, helping rapid building & repetition:
+   In the 70s, the DoD's Internet Protocol made easy to grow communications exponentially. In the 90’s the CERN's Web open format radically boosted the information exchange. In 201x's QC offer on cloud gave seamless access to Quantum Computers for hundreds of thousands researchers. 
+
+
+Own method refined from Industry Agile Six Sigma: Listen and innovate designs, measure, analyze, continuously automate, communicate and control.
+ 
 
 
 ---
