@@ -2,9 +2,9 @@ _brief_: https://github.com/infchg/j2?  _former_: https://infchg.github.io/QI?
   
 #  🌌 Thinking about fundamental questions
 
-- Interest: Physics, Quantum Information, inter-disciplinary collaboration [#planned-2022-23]
-- Steps taken: published on [Physics-Based-Information-Models] and researches [QI-Tools-Applications]
-- Experienced: achieving full IT goals by integrating teams Hardware GPU Bus Linux Network DevOps Python Cloud ...
+- Interest: Physics, Quantum Information, inter-disciplinary collaboration [planned 2022-23](#planned-2022-23)
+- Steps taken: published on [](#Physics-Based-Information-Models), researching [QI-Tools-Applications](#QI-Tools-Applications)
+- Experienced: achieved complex IT goals integrating Teams, Hardware, Instruments, Bus, Linux, Network, DevOps, Python, Cloud 
 
 Generic & Simple frameworks boost human innovation, helping rapid building & repetition:
    In the 70s, the DoD's Internet Protocol made easy to grow communications exponentially. In the 90’s the CERN's Web open format radically boosted the information exchange. In 201x's IBM's QisKit started seamless access to Quantum Computers for hundreds of thousands researchers. 
@@ -73,10 +73,9 @@ IAEA, Vienna - 2020 - New Hardware & ML analysis of Cherenkov UV light images fr
 
 
 ```mermaid
-graph TD;
+graph LR;
     People-->Continuous;
-    People-->Rapid;
-     Rapid-->Safe;
+ 
    Continuous-->Safe;
    Safe-->a;
    a-->People;
@@ -91,6 +90,16 @@ layout: default
  - Documentation  Rendering in https://github.com/Kodziak
 
  
+
+```mermaid
+graph TD;
+    People-->Continuous;
+    People-->Rapid;
+     Rapid-->Safe;
+   Continuous-->Safe;
+   Safe-->a;
+   a-->People;
+```
 
 
 
