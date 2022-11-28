@@ -5,9 +5,9 @@ _brief_: https://github.com/infchg/j2?  _former_: https://infchg.github.io/QI?
 
 # Steps when Exploring the Nature of Quantum Information
 
-- Steps taken: Theoretical [Physics-Based-Information-Models](#-Physics-Based-Information-Models) published with QKD examples. 
+- Past steps: Theoretical [Physics-Based-Information-Models](#-Physics-Based-Information-Models) published with QKD examples. 
 - Recent research on [QI-Tools-Applications](#-QI-Tools--Applications) with Hilbert space and Bloch sphere
-- Next proposal: inter-disciplinary collaboration [planned 2022-23](#planned-2022-23) nearby NYC, by bringing:
+- Next proposal: inter-disciplinary collaboration [planned 2022-23](#planned-2022-23) nearby NYC, part-time, bringing:
    - Two decades achieving complex IT goals, by integrating Teams, Hardware, Instruments, Bus, Linux, Network, DevOps, Python, Cloud 
    - & Ability to understand the theory, matrix operators, eigenstates, ... and some notions learnt from experimentalists and QisKit 
 
@@ -42,7 +42,7 @@ With gratitude to teams who accepted posters contributions during PhD studies an
  And MSEE/CS Background: Master of Electrical Engineering (MScEE equivalence certified in California) + a progressive career in hardware and software computing with Industry Agile DevOps,
  
  - @ current: planning Open Cloud Tool - Ongoing - Queue monitoring for Quantum Processing queues in a light dashboard
- - @ IAEA Vienna 2020: Architecture to Prototyping new Hardware and ML to analyze Cherenkov UV light images from nuclear plants worldwide 
+ - @ IAEA Vienna 2020: Architect & Prototype Hardware&System for ML analysis of Cherenkov UV light images from world nuclear plants 
  - @ WOCE Support 95: Integrated Gravimeter instrumentation (formerly at NASA [satellite](https://icebridge.gsfc.nasa.gov/?page_id=180)) from hardware to internet data pipelines.
 
 
@@ -78,10 +78,11 @@ Information-Change J-C - https://github.com/infchg/j2? - tel: (917) 815 xxxx - N
 Fostering Models & Methods in collaborations:
 
 Historic agile XP boosted interdisciplinary teams since 2001, from teams analyzing data to developers to hardware engineers accessing states at tiny fractions of a second. ModernAgile has four pillars: 
+
 - People collaborations enhanced (Git & Jupyter Notebooks);
 - Repeat and Continuously Improve (automated pipelines); 
 - allowing rapid experimentation;
--  Safety came from approaching goals  in consumer/provider pairs, effectively avoiding hw/sw/coders overwhelmed or consumers/analysts/theorist disappointed.
+-  Safe by working in pairs, consumer/provider. It avoided hw/coders overwhelmed or analysts/theorist disappointed.
 
 ```mermaid
 graph LR;
@@ -93,13 +94,12 @@ graph LR;
    
 ```
 
-Why ?
+Why ? Generic & Simple frameworks boost human innovation, helping rapid building & repetition:
 
-Generic & Simple frameworks boost human innovation, helping rapid building & repetition:
    In the 70s, the DoD's Internet Protocol made easy to grow communications exponentially. In the 90’s the CERN's Web open format radically boosted the information exchange. In 201x's QC offer on cloud gave seamless access to Quantum Computers for hundreds of thousands researchers. 
 
 
-Own method refined from Industry Agile Six Sigma: Listen and innovate designs, measure, analyze, continuously automate, communicate and control.
+Innovation beyond Agile Six Sigma: Listen & innovate designs, measure, analyze, continuously automate, communicate & control.
  
 
 
