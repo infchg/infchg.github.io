@@ -1,12 +1,52 @@
----
-title: QI Profile & Plans
-layout: default
----
+_brief_: https://github.com/infchg/j2?  _former_: https://infchg.github.io/QI?
+  
+#  🌌 Thinking about fundamental questions
+
+- Interest: Physics, Quantum Information, inter-disciplinary collaboration
+- Experienced: achieving full IT goals by integrating teams Hardware GPU Bus Linux Network DevOps Python Cloud ...
+
+Generic & Simple frameworks boost human innovation, helping rapid building & repetition:
+   In the 70s, the DoD's Internet Protocol made easy to grow communications exponentially. In the 90’s the CERN's Web open format radically boosted the information exchange. In 201x's IBM's QisKit started seamless access to Quantum Computers for hundreds of thousands researchers. 
+
+ 
+# QI planned part-time 
+
+part-time! Due to completing a tech project full-time now:
+- 2022 submitting new journal paper on Bloch & QI framework 
+- 2023 Q1Q2 collaborations nearby NY towards cloud quantum computing
+
+#  🌱 on Physics-Based Models of Information 
+
+Proposed Physics-Based Models (alike Toffoli, Benioff, Kirchoff) and Feynman-charts of Information Change.
+
+ -   "Simulation model applied to IP protocols and satellite communications", Int'l Conf. Advances in Satellite and Space Communications, 2010, pp.122–127, Martínez, J.C., De Haro, L., González, A. https://IEEExplore.IEEE.org/document/5502488 DOI.org/10.1109/spacomm.2010.34 ISBN:9781424472758 on QKD
+ -   "Particle-based methodology for representing mobile ad-hoc networks", Int'l Conf. Integrated internet ad hoc and sensor networks ACM, 2006, DOI.org/10.1145/1142680.1142685 ISBN:1595934278 https://oa.upm.es/1666? 
+
+Applying to QI: Exploring common frameworks to represent light modes coding qubits across diverse experiments
+
+  -  on Bloch-R3 tools accross diverse physical modes, orbital, temporal, parity, spin, … much improved from public preprint  researchgate.net/publication/356697550_Comparative_Analysis_of_Spin_Paths_Temporal_and_Spatial_Modes
+  -  on Verifying quantum information designs with Conservation Laws and Change diagrams, BeyondC 2019 Vienna, pp.22 #34, https://beyondc.at/fileadmin/user_upload/p_beyondc/Conference_2019/Book_of_Abstracts.pdf 
+    
+##  ♥ Thanks to past teams and collaborators.
+
+With gratitude to teams who accepted posters contributions during PhD studies and helped evolve these ideas from early stages:
+
+ -   "Mathematical model for specification and inter-operation between experiments and tools", Neutrinos & Dark Matter in Nuclear Physics, 2006, pp.909-914 http://iaea.org/inis/collection/NCLCollectionStore/_Public/39/005/39005128.pdf pp4
+ -   [] "Quantum Modeling using Information-Particles", Proc. of TQC2007 Theory of Quantum Computation, Communication, & Cryptography, Jan 24-25 2007 Nara Japan , http://www.brl.ntt.co.jp/tqc/2007/en/program.htm [] "Physics Oriented objects for modeling QIP", QIP 2007, Australia, Jan 2007, http://www.qinfo.org/qip/program.htm
+ -   Background: Master of Electrical Engineering (MScEE equivalence certified in California), a progressive career in hardware and software computing with Industry Agile DevOps, from Gravimeter instrumentation to Cloud.
 
 
-#  👋 Hi
-- $x - y$
-geo 
+
+
+
+
+## 👋 Nearby
+
+    # Information-Change - https://github.com/infchg/j2? - tel: (917) 815 xxxx - New York, NY 
+ 
+ $$V_{sphere} = \frac{4}{3}\pi r^3$$
+
+
 ```geojson
 {
   "type": "Polygon",
@@ -21,20 +61,37 @@ geo
   ]
 }
 ```
+ 
+
+
+## 📕 Refs 
+### Delivering by Agile & Modern https://modernagile.org/
+
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    People-->Rapid;
+    People-->Continuous;
+    Continuous-->Safe;
+    Rapid-->Safe;
 ```
+
+---
+title: QI Profile & Plans
+layout: default
+---
+
+
+ - Documentation  Rendering in https://github.com/Kodziak
+
+ 
+
+
 
 [jccomm]: jccomm " geo solved with FeatureCollection   type : "FeatureCollection". features .."
 ```{r  recuerda, include = FALSE, echo=FALSE, , results='hide',message=FALSE, display=false, show=false, hidden=true}
 must first knit(input="readme.rmd", output = "readme.md") #see ?knit for more options
 ```
- $$V_{sphere} = \frac{4}{3}\pi r^3$$
 
 ```stl
 solid cube_corner
@@ -69,23 +126,11 @@ solid cube_corner
 endsolid
 ```
 
-  
-#  🌌 Think about fundamental questions, 
-
-physicists and computer scientists much closer together
 
 
 <i>hdsfjh</i>
 
 
-#  📕 Refs
-
-
-- Documentation  Rendering in https://github.com/Kodziak
-
- ♥ 
- 
- # Results 🌱
 
 <details>
  <summary> also in markdown </summary>
@@ -101,8 +146,8 @@ physicists and computer scientists much closer together
 <i class="text-danger">r</i>
 <i class="bi bi-speedometer2"  >, </i>
 <span class="bi bi-link">.</span>
-meter &#xF580;
-&#9658; 
+<i>   &#xF580;
+&#9658; </i>
 
 <!-- jc -->
 
