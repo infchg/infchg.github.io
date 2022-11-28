@@ -1,9 +1,9 @@
-```yaml
 ---
+title: QI Profile & Plans
 layout: default
-title: THEOTHERsite
 ---
-```
+
+
 #  👋 Hi
 - $x - y$
 geo 
@@ -91,6 +91,31 @@ physicists and computer scientists much closer together
  <summary> also in markdown </summary>
  notes
 </details>
+
+
+<i class=" text-success  bi bi-speedometer2"  >
+.
+</i>
+ 
+
+<i class="text-danger">r</i>
+<i class="bi bi-speedometer2"  >, </i>
+<span class="bi bi-link">.</span>
+meter &#xF580;
+&#9658; 
+
+<!-- jc -->
+
+<link rel=”stylesheet” href=”https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css” />
+
+<!-- CSS only for classes warning etc -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+<!-- CSS only for classes warning etc -->
+<link rel=”stylesheet” href=”https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css”/>
+<!-- fonst for icons -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+
 
 
 ### META <hr>
