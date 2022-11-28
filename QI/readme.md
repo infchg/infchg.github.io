@@ -2,16 +2,18 @@ _brief_: https://github.com/infchg/j2?  _former_: https://infchg.github.io/QI?
   
 #  🌌 Thinking about fundamental questions
 
-- Interest: Physics, Quantum Information, inter-disciplinary collaboration
+- Interest: Physics, Quantum Information, inter-disciplinary collaboration [Planned 2022-23]
+- Steps taken: publications [on Physics-Based Models of Information] and researching [on QI Tools & Applications]
 - Experienced: achieving full IT goals by integrating teams Hardware GPU Bus Linux Network DevOps Python Cloud ...
 
 Generic & Simple frameworks boost human innovation, helping rapid building & repetition:
    In the 70s, the DoD's Internet Protocol made easy to grow communications exponentially. In the 90’s the CERN's Web open format radically boosted the information exchange. In 201x's IBM's QisKit started seamless access to Quantum Computers for hundreds of thousands researchers. 
 
  
-# QI planned part-time 
+# Planned 2022-23
 
-part-time! Due to completing a tech project full-time now:
+Part-time Due to completing a tech project full-time currently:
+
 - 2022 submitting new journal paper on Bloch & QI framework 
 - 2023 Q1Q2 collaborations nearby NY towards cloud quantum computing
 
@@ -22,7 +24,9 @@ Proposed Physics-Based Models (alike Toffoli, Benioff, Kirchoff) and Feynman-cha
  -   "Simulation model applied to IP protocols and satellite communications", Int'l Conf. Advances in Satellite and Space Communications, 2010, pp.122–127, Martínez, J.C., De Haro, L., González, A. https://IEEExplore.IEEE.org/document/5502488 DOI.org/10.1109/spacomm.2010.34 ISBN:9781424472758 on QKD
  -   "Particle-based methodology for representing mobile ad-hoc networks", Int'l Conf. Integrated internet ad hoc and sensor networks ACM, 2006, DOI.org/10.1145/1142680.1142685 ISBN:1595934278 https://oa.upm.es/1666? 
 
-Applying to QI: Exploring common frameworks to represent light modes coding qubits across diverse experiments
+#  🌱 on QI Tools & Applications 
+
+Exploring common frameworks to represent light modes coding qubits across diverse experiments
 
   -  on Bloch-R3 tools accross diverse physical modes, orbital, temporal, parity, spin, … much improved from public preprint  researchgate.net/publication/356697550_Comparative_Analysis_of_Spin_Paths_Temporal_and_Spatial_Modes
   -  on Verifying quantum information designs with Conservation Laws and Change diagrams, BeyondC 2019 Vienna, pp.22 #34, https://beyondc.at/fileadmin/user_upload/p_beyondc/Conference_2019/Book_of_Abstracts.pdf 
@@ -70,10 +74,10 @@ With gratitude to teams who accepted posters contributions during PhD studies an
 
 ```mermaid
 graph TD;
-    People-->Rapid;
     People-->Continuous;
-    Continuous-->Safe;
-    Rapid-->Safe;
+    People-->Rapid;
+     Rapid-->Safe;
+   Continuous-->Safe;
 ```
 
 ---
