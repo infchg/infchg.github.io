@@ -7,13 +7,10 @@ _brief_: https://github.com/infchg/j2?  _former_: https://infchg.github.io/QI?
 
 - Steps taken: Theoretical [Physics-Based-Information-Models](#-Physics-Based-Information-Models) published with QKD examples. 
 - Recent research on [QI-Tools-Applications](#-QI-Tools--Applications) with Hilbert space and Bloch sphere
-- Next proposal: inter-disciplinary collaboration [planned 2022-23](#planned-2022-23) nearby NYC
-   - brings:
-   -  experince achieving complex IT goals, by integrating Teams, Hardware, Instruments, Bus, Linux, Network, DevOps, Python, Cloud 
-   - + ability to understand the theory, matrix operators, eigenstates, ... and some notions learnt from experimentalists and qiskit 
+- Next proposal: inter-disciplinary collaboration [planned 2022-23](#planned-2022-23) nearby NYC, by bringging:
+   - Two decades achieving complex IT goals, by integrating Teams, Hardware, Instruments, Bus, Linux, Network, DevOps, Python, Cloud 
+   - & Ability to understand the theory, matrix operators, eigenstates, ... and some notions learnt from experimentalists and qiskit 
 
-
- 
 # Planned 2022-23
 
 *Part-time* due to current commitment delivering a technology project full-time:
@@ -35,22 +32,25 @@ Exploring common frameworks to represent light modes coding qubits across divers
   -  on Bloch-R3 tools accross diverse physical modes, orbital, temporal, parity, spin, … much improved from public preprint  researchgate.net/publication/356697550_Comparative_Analysis_of_Spin_Paths_Temporal_and_Spatial_Modes
   -  on Verifying quantum information designs with Conservation Laws and Change diagrams, BeyondC 2019 Vienna, pp.22 #34, https://beyondc.at/fileadmin/user_upload/p_beyondc/Conference_2019/Book_of_Abstracts.pdf 
     
-##  ♥ Thanks to past teams and collaborators.
+#  ♥ Thanks to past teams and collaborators.
 
 With gratitude to teams who accepted posters contributions during PhD studies and helped evolve these ideas from early stages:
 
  -   "Mathematical model for specification and inter-operation between experiments and tools", Neutrinos & Dark Matter in Nuclear Physics, 2006, pp.909-914 http://iaea.org/inis/collection/NCLCollectionStore/_Public/39/005/39005128.pdf pp4
- -   [] "Quantum Modeling using Information-Particles", Proc. of TQC2007 Theory of Quantum Computation, Communication, & Cryptography, Jan 24-25 2007 Nara Japan ,  brl.ntt.co.jp/tqc/2007/en/program.htm [] "Physics Oriented objects for modeling QIP", QIP 2007, Australia, Jan 2007,  qinfo.org/qip/program.htm
- -   Background: Master of Electrical Engineering (MScEE equivalence certified in California), a progressive career in hardware and software computing with Industry Agile DevOps, from Gravimeter instrumentation to Cloud.
--  Open Cloud Tool - Ongoing - Queue monitoring for Quantum Processing queues in a light dashboard
-IAEA, Vienna - 2020 - New Hardware & ML analysis of Cherenkov UV light images from Nuclear plants 
+ -  "Quantum Modeling using Information-Particles", TQC2007 Theory of Quantum Computation, Communication, & Cryptography, Jan 24-25 2007 Nara Japan ,  brl.ntt.co.jp/tqc/2007/en/program.htm [] "Physics Oriented objects for modeling QIP", QIP 2007, Australia, Jan 2007,  qinfo.org/qip/program.htm
+ 
+ And MSEE/CS Background: Master of Electrical Engineering (MScEE equivalence certified in California) + a progressive career in hardware and software computing with Industry Agile DevOps,
+ 
+ - @ current: planning Open Cloud Tool - Ongoing - Queue monitoring for Quantum Processing queues in a light dashboard
+ - @ IAEA Vienna 2020: Architecture to Prototyping new Hardware and ML to analyze Cherenkov UV light images from Nuclear plants 
+ - @ WOCE Support 95: Integrated Gravimeter instrumentation (formerly at NASA [satellite](https://icebridge.gsfc.nasa.gov/?page_id=180)) from hardware to internet data pipelines.
 
 
 
 
 ## 👋 Nearby
 
-    # Information-Change - https://github.com/infchg/j2? - tel: (917) 815 xxxx - New York, NY 
+Information-Change J-C - https://github.com/infchg/j2? - tel: (917) 815 xxxx - New York, NY 
  
  $$V_{sphere} = \frac{4}{3}\pi r^3$$
 
@@ -86,7 +86,6 @@ graph LR;
    Safe-->Rapid;
    Rapid-->People;
    
-   People-->Safe;
 ```
 
 Fostering Models & Methods:
