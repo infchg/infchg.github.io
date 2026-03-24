@@ -163,6 +163,18 @@
 <!--
  arriba mueve
  -->
+<script>
+  window.addEventListener('load', function() {
+    setTimeout(function() {
+      var mapDiv = document.querySelector('.map_aspect_ratio');
+      if (mapDiv) {
+        mapDiv.style.paddingTop = '1%';
+        // Optional: Add a console log for debugging
+        //console.log('Fixed map_aspect_ratio padding');
+      }
+    }, 1000); // 1 second delay change globe padding
+  });
+</script>
 
 </div>
  
